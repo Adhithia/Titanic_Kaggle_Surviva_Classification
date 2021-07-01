@@ -1,4 +1,4 @@
-# Titanic_Kaggle_Surviva_Classification
+# Titanic_Kaggle_Survival_Classification
 Machine Learning Classification Models used in Titanic Competition on Kaggle
 
 ## About:
